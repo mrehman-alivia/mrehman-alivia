@@ -1,4 +1,4 @@
-- 👋 Hi there !
+👋 Hi there !
   
 <!---
 mrehman-alivia/mrehman-alivia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
